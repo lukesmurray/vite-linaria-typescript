@@ -8,7 +8,8 @@ yarn create vite vite-linaria-typescript --template react-ts
 
 ```sh
 yarn add @linaria/core @linaria/react
-yarn add --dev @linaria/babel-preset
+# TODO(lukemurray): babel presets aren't used right now
+yarn add --dev @linaria/babel-preset @babel/preset-react
 yarn add --dev twin.macro babel-plugin-macros tailwindcss
 ```
 
@@ -31,4 +32,18 @@ yarn add --dev twin.macro babel-plugin-macros tailwindcss
     }
   }
 },
+```
+
+4.  Add the vite config
+
+```ts
+export default defineConfig({
+  plugins: [
+    react({
+      babel: {
+        plugins: ["babel-plugin-macros"],
+      },
+    }),
+  ],
+});
 ```
