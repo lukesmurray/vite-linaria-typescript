@@ -8,7 +8,7 @@ yarn create @vitejs/app my-vite-app --template react-ts
 
 ```sh
 yarn add @linaria/core @linaria/react
-yarn add --dev @linaria/rollup babel-plugin-macros tailwindcss twin.macro
+yarn add --dev @linaria/rollup @linaria/shaker babel-plugin-macros tailwindcss twin.macro
 ```
 
 3. Add the twin config in package.json
