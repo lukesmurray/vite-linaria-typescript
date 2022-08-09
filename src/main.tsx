@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import tw, { css, styled, theme } from "twin.macro";
+import { css, styled } from "twin.macro";
+import { GlobalStyles } from "./styles/GlobalStyles";
 
 function LinariaCssClassName() {
   return (
@@ -47,6 +48,7 @@ function LinearObjectInterpolationInCssClassName() {
 function App() {
   return (
     <>
+      <GlobalStyles />
       <LinariaCssClassName />
       <LinariaStylesAsAStyledTag>
         Linaria Styles As A Styled Tag
