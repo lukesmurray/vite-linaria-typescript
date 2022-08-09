@@ -8,15 +8,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@linaria/core": "^3.0.0-beta.22",
-    "@linaria/react": "^3.0.0-beta.22",
+    "@linaria/core": "^4.1.1",
+    "@linaria/react": "^4.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@linaria/babel-preset": "^3.0.0-beta.22",
-    "@linaria/rollup": "^3.0.0-beta.22",
-    "@linaria/shaker": "^3.0.0-beta.22",
+    "@linaria/babel-preset": "^4.1.2",
+    "@linaria/rollup": "^4.1.2",
+    "@linaria/shaker": "^4.1.2",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.0.0",
