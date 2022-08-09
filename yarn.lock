@@ -1010,7 +1010,7 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@linaria/babel-preset@^3.0.0-beta.15", "@linaria/babel-preset@^3.0.0-beta.22":
+"@linaria/babel-preset@^3.0.0-beta.22":
   version "3.0.0-beta.22"
   resolved "https://registry.yarnpkg.com/@linaria/babel-preset/-/babel-preset-3.0.0-beta.22.tgz#21d9760cf9487d742951b5d2ecaf09ce0fe4538c"
   integrity sha512-0Igie3stlsKT+XKYdhW7Yy8MNg2gZ5ShOosgTkpz3Agwtz+Osgb/4JNMnqGlAUaVULtMpKLc7mF/NbbhAEEF3Q==
@@ -1030,7 +1030,7 @@
     source-map "^0.7.3"
     stylis "^3.5.4"
 
-"@linaria/core@^3.0.0-beta.15", "@linaria/core@^3.0.0-beta.22":
+"@linaria/core@^3.0.0-beta.22":
   version "3.0.0-beta.22"
   resolved "https://registry.yarnpkg.com/@linaria/core/-/core-3.0.0-beta.22.tgz#170dbeaf7bf7f7b5607d8e68d0d616d739b673b8"
   integrity sha512-BPSecW8QmhQ0y+5cWXEja+MTmLsuo0T1PjqRlSWsmDgjJFFObqCnPEgbR1KNtQb3Msmx1/9q3dYKpA5Zk3g8KQ==
@@ -1053,7 +1053,7 @@
   dependencies:
     "@linaria/babel-preset" "^3.0.0-beta.22"
 
-"@linaria/react@^3.0.0-beta.15":
+"@linaria/react@^3.0.0-beta.22":
   version "3.0.0-beta.22"
   resolved "https://registry.yarnpkg.com/@linaria/react/-/react-3.0.0-beta.22.tgz#62ee2587ff5e46f8db3307b42285cb15b2ca006e"
   integrity sha512-14rnb/zkzhFhJM3hbBOzLLS0bu01mOg23Rv2nGQUt5CWd+HOhksmqzqBtC/ijeVlY2hRI0rJJcng9r07LGGAPA==
@@ -1062,7 +1062,7 @@
     "@linaria/core" "^3.0.0-beta.22"
     ts-invariant "^0.10.3"
 
-"@linaria/rollup@^3.0.0-beta.15":
+"@linaria/rollup@^3.0.0-beta.22":
   version "3.0.0-beta.22"
   resolved "https://registry.yarnpkg.com/@linaria/rollup/-/rollup-3.0.0-beta.22.tgz#ebe072eb813afc685e42f9f4b787375cd52043dc"
   integrity sha512-VSMOvDsuAC/GoIwt111v6T7NlK5xvwVi5sK6OUNBCAZLdBai72uPKQKniye6qLMsI9SUfzPbktjTPVP/Uffweg==
@@ -1070,7 +1070,7 @@
     "@linaria/babel-preset" "^3.0.0-beta.22"
     "@rollup/pluginutils" "^4.1.0"
 
-"@linaria/shaker@^3.0.0-beta.15":
+"@linaria/shaker@^3.0.0-beta.22":
   version "3.0.0-beta.22"
   resolved "https://registry.yarnpkg.com/@linaria/shaker/-/shaker-3.0.0-beta.22.tgz#23bdd5f7a49718967739febb29f278360332bf80"
   integrity sha512-NOi71i/XfBJpBOT5eepRvv6B64IMdjsKwv+vxLW+IuFHx3wnqXgZsgimNK2qoXbpqy9xWsSEeB/4QA4m8GCUKQ==
