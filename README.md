@@ -8,8 +8,7 @@ yarn create vite vite-linaria-typescript --template react-ts
 
 ```sh
 yarn add @linaria/core @linaria/react
-# TODO(lukemurray): babel presets aren't used right now
-yarn add --dev @linaria/babel-preset @babel/preset-react
+yarn add --dev @linaria/babel-preset @linaria/rollup @linaria/shaker babel-loader
 yarn add --dev twin.macro babel-plugin-macros tailwindcss
 ```
 
